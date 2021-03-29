@@ -1,8 +1,7 @@
 I’m currently looking for a front-end-developer job.
 Passionate about building responsive web application.
 
-Connect with me:
-github linkedin
+
 
 Languages and Tools:
 javascript react html5 css3 redux bootstrap git
