@@ -1,7 +1,10 @@
-I’m currently looking for a front-end-developer job.
+Hi there, I'm Teja 👋
 
-Passionate about building responsive web application.
-
+🔭 I’m currently looking for a Front End Developer job !!
+🌱 I’m currently learning Node.js 
+👯 I’m looking to collaborate with other content creators
+🥅 2021 Goals: Contribute more to Open Source projects
+⚡ Fun fact: I love Listiening Old songs and play Shuttle and Cooking
 
 
 Languages and Tools:
