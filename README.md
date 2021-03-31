@@ -11,10 +11,12 @@ Hi there, I'm Teja 👋
 ⚡ Fun fact: I love Listiening Old songs and play Shuttle and Cooking
 
 
-Languages and Tools:
-![image](https://user-images.githubusercontent.com/31472263/113182412-7e6d0b00-9270-11eb-8b8c-094a8abba217.png)
-
-![image](https://user-images.githubusercontent.com/31472263/113182172-3a7a0600-9270-11eb-8cb7-63de6665506b.png)
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
 
 
 javascript react html5 css3 redux bootstrap git
