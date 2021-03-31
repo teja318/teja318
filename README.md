@@ -12,6 +12,8 @@ Hi there, I'm Teja 👋
 
 
 Languages and Tools:
+![image](https://user-images.githubusercontent.com/31472263/113182412-7e6d0b00-9270-11eb-8b8c-094a8abba217.png)
+
 ![image](https://user-images.githubusercontent.com/31472263/113182172-3a7a0600-9270-11eb-8cb7-63de6665506b.png)
 
 
