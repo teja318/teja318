@@ -9,7 +9,7 @@
 
 🥅 2021 Goals: Contribute more to Open Source projects
 
-⚡ Fun fact: I love Listiening Old songs and play Shuttle and Cooking
+⚡ Fun fact: I love Listiening Old songs and play Batmenton and Cooking
 
 ## ✉️ Connect me on:
 <p align="center">
